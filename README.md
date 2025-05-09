@@ -17,6 +17,20 @@ The Gym Management System is a full-stack web application designed to streamline
 
 ---
 
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login Screenshot](./screenshots/login.png)
+
+### 🏠 User Dashboard
+![Dashboard Screenshot](./screenshots/dashboard.png)
+
+### 📅 Slot Booking
+![Slot Booking Screenshot](./screenshots/slot-booking.png)
+
+### 🧑‍💼 Admin Panel
+![Admin Panel Screenshot](./screenshots/admin-panel.png)
+
 ## ⚙️ Technologies Used
 
 ### 🖥️ Frontend
